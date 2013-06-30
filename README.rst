@@ -1,5 +1,5 @@
-The best way to learn Python tutorial notebooks
-===============================================
+The best way to learn Python tutorial series notebooks
+======================================================
 
 These are the notebooks accompanying `the best way to learn Python
 tutorial series on YouTube <http://www.youtube.com/playlist?list=PLwNU7Gk6Z5ZkXXsvtJTtBhQNl905Jua-O>`_.
@@ -19,5 +19,7 @@ Viewing the notebooks on nbviewer
 * `Parts 1 and 2: Defining and invoking a function <http://nbviewer.ipython.org/urls/raw.github.com/cpbotha/bwtl-python-tutorials/master/part1and2%2520-%2520install%2520and%2520functions.ipynb>`_
 * `Part 3: Variables, control flow, and plotting a parabola <http://nbviewer.ipython.org/urls/raw.github.com/cpbotha/bwtl-python-tutorials/master/part3%2520-%2520variables%2520and%2520control%2520flow.ipynb>`_
 
+Connect
+-------
 
 `@cpbotha <http://twitter.com/cpbotha>`_
